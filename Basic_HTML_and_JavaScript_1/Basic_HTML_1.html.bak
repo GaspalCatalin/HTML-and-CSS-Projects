@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<script src="Basic_JavaScript_1.js"></script>
+	</head>
+
+	<body>
+			<img sc="irishgreen.gif" width="249" height="199" alt="Happy Irish Man">
+			<p><font face="Calibri" size="4">Have you ever wondered <i>why Ireland is a country where <font color="green" face="Calibri" size="6">green</font> is everywhere</i>?</font></p>
+			<p><font color="#008000" face="Calibri" size="2"><b>The reason</b> of why are the <font color="#008000" size="5"><b>frequent rain showers</b></font> 
+					and the <font color="#008000" size="5"><b>moderate temperatures</b></font>: 
+					<u>these allow for the growth of a wide variety of plants, 
+					creating a green tapestry that blankets the country</u>.</font></p>
+	</body>
+
+</html>
