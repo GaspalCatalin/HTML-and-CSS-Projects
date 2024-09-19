@@ -1,0 +1,4 @@
+p	{
+		color: coral;
+		text-align: right;
+	}

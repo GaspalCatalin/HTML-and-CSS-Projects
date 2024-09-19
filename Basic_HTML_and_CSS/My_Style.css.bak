@@ -1,0 +1,4 @@
+p	{
+		color: slategray;
+		text-align: left;
+	}

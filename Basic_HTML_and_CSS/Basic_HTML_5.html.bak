@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+	<body>
+	<link rel="stylesheet" type="text/css" href="Basic_CSS_2.css">
+	<p class="my_font">This paragraph was written for the use of my styled font in CSS.</p>
+	</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<!--Team table-->
+		<h1>Internazionale Milano Team</h1>
+		<table style="width: 100%">
+			<tr>
+				<th>Name</th>
+				<th>Position</th>
+				<th>Prefered foot</th>
+				<th>Shirt number</th>
+			</tr>
+			<tr>
+				<td>Yann Sommer</td>
+				<td>Goalkeeper</td>
+				<td>Right</td>
+				<td>1</td>
+			</tr>
+			<tr>
+				<td>Lautaro Martinez</td>
+				<td>Forward</td>
+				<td>Right</td>
+				<td>10</td>
+			</tr>
+			<tr>
+				<td>Henrick Mkhitaryan</td>
+				<td>Midfielder</td>
+				<td>Both</td>
+				<td>22</td>
+			</tr>
+		</table>
+	</body>
+</html>

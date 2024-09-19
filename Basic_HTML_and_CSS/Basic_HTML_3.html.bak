@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>The primary colors</title>
+		<link rel="stylesheet" type="text/css" href="Basic_CSS_1.css">
+	</head>
+
+	<body>
+		<h1>RGB color model</h1>
+		
+		<div style="color: red">
+			<h2>Red</h2>
+			<p>Red is considered to be one of the most intense color and is ussually associated with
+			strong emotions, ranging from anger, 
+			sacrifice, danger, and heat, through to love, passion, and sexuality.</p>
+		</div>
+		
+			<div>
+				<style>
+				h3 {color: rgb(255, 0, 0)}
+				</style>
+				<h3>Red in the history</h3>
+				<p>The ancient egyptians used the red pigment like a sign of vitality and celebration,
+				as well as evil and destruction</p>
+			</div>
+	</body>
+</html>
