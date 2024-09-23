@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<body>
+	<link rel="stylesheet" type="text/css" href="Spacing_Challenge.css">
+		<section>
+			<h1>English writers</h1>
+			<h2>W.&nbsp;Shakespeare</h2>
+				<p><span style="color:darkslateblue; font-weight:bold">W. Shakespeare</span> 
+				is considered <span style="color:darkslateblue; font-weight:bold">the greatest writer</span> 
+				in the English language. While his original work is considered to be &#34;in the Public Domain&#34;, any creation based on it
+				can be protected by copyright. Pay attention to &copy mark. We reproduce here 
+				<span style="color:darkslateblue; font-weight:bold">one of the most famous quotes</span> from his work:</p>
+				<p>To be, or not to be: that is the question:<br>
+				Whether 'tis nobler in the mind to suffer<br>
+				The slings and arrows of outrageous fortune,<br>
+				Or to take arms against a sea of troubles,<br>
+				And by opposing end them? To die: to sleep;<br>
+				&lpar;<i>Hamlet</i>, Act 1 Scene 5&rpar;</p>
+		</section>
+
+		<section>
+			<h1>Romanian writers</h1>
+			<h2>M.&nbsp;Eminescu</h2>
+				<p><span style="color:darkslateblue; font-weight:bold">M. Eminescu</span> is generally regarded 
+				as <span style="color:darkslateblue; font-weight:bold">the most famous and influential Romanian poet.</span></p>
+				<p>A fost odată ca-n povești,<br>
+				A fost ca niciodată.<br>
+				Din rude mari împărătești,<br>
+				O prea frumoasă fată.<br>
+				&lpar;<i>Luceafărul</i>&rpar;</p>
+		</section>
+	</body>
+</html>

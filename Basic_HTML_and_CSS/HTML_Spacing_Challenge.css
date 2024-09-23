@@ -1,0 +1,17 @@
+h1 {
+	color: ivory;
+	background: darkred;
+	font-weight: bold;
+	font-size: 40px;
+	text-align: center;
+	text-shadow: 2px 2px 8px #000000;
+}
+
+h2	{
+	color: ivory;
+	background: firebrick;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: left;
+	text-shadow: 2px 2px 8px #000000;
+}
