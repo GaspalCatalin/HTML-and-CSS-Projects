@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>One Thousand and Two Receipts</title>
+		<meta charset="utf-8">
+	</head>
+
+	<header>
+	<nav>
+		<a href="Assignment.html">Home</a>
+		<a href="Dog.html">Dog Picture</a>
+		<a href="Dog_Video.html">Dog Video</a>
+	</nav>
+	</header>
+
+	<body>
+		<p>Want to surprise someone with a fabulous breakfast? 
+		Want to pamper your family with a super delicious lunch? 
+		Are you looking for a perfect save for your evening? 
+		You are in the right place!</p>
+		
+		<main>
+			<h1>Breakfast</h1>
+		
+			<h3>Gran-olé!</h3>
+				<img src=https://images.immediate.co.uk/production/volatile/sites/30/2010/02/Granola-a950f2b.jpg?quality=90&webp=true&resize=600,545>
+			
+			<h4>Variations</h4>
+				<a href="https://as1.ftcdn.net/v2/jpg/04/81/85/46/1000_F_481854656_gHGTnBscKXpFEgVTwAT4DL4NXXNhDKU9.jpg">Enjoy your Granola with your favorite pet</a>
+			<h5>Dogs</h5>
+				<blockquote cite="https://dogchild.co/blogs/recipes/no-bake-granola-bars-for-dogs">
+				<p>Fuel your dog’s next adventure with a Homemade Granola Bar. 
+				This no bake recipe will leave you with the healthiest treat in no time! 
+				Made with wholesome ingredients & featuring our Dog Child Essential Nutrient Mix making for the perfect balance! 
+				Let's get cooking!</p>
+				</blockquote>
+			
+			<p>Check 
+				<a href="https://zooart.com.pl/blog/wp-content/uploads/2018/11/MOPS-PORTRET-1000x667-1.jpg">here</a>
+				how lovely a mops is!
+			</p>
+		</main>
+	
+		<footer>
+			<p>Author: GCI</p>
+			<p>Contact: 0040/74465009401</p>
+			<p>Watch
+			<a href="Dog_Video.html">here</a>
+				my webpage about the Funny Mops! 
+			</p>
+		</footer>
+		
+	</body>
+
+</html>
