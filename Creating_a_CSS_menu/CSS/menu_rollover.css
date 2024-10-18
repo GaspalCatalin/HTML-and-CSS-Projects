@@ -57,7 +57,7 @@ body {
     left: 0;
     position:absolute;
     top: 43.5px;
-    width: 132px;
+    width: 134px;
     opacity: 0;
     /*While not being hovered, drop down-menu hides
     This also avoids a block-level bug*/
