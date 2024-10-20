@@ -1,29 +1,30 @@
 .batman {
-    background-color: #d7d9f2;
-  }
+  background-color: #b7b8d1;
+}
   
-  .flash {
-    background-color: #ffe8d4;
-  }
+.flash {
+  background-color: #e6c4b8;
+}
   
-  table {
-    border-collapse: collapse;
-    border: 2px solid rgb(140 140 140);
-    font-family: sans-serif;
-    font-size: 0.8rem;
-    letter-spacing: 1px;
-  }
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(140 140 140);
+  font-family: sans-serif;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+}
   
-  caption {
-    caption-side: bottom;
-    padding: 10px;
-  }
+caption {
+  caption-side: bottom;
+  padding: 10px;
+  background-color: #dadadb;
+}
   
-  th, td {
-    border: 1px solid rgb(160 160 160);
-    padding: 8px 6px;
-  }
+th, td {
+  border: 1px solid rgb(160 160 160);
+  padding: 8px 6px;
+}
   
-  td {
-    text-align: center;
-  }
+td {
+  text-align: center;
+}
