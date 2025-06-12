@@ -260,16 +260,24 @@
 						</h2>
 						<p class="rsvp-text">Please provide us with your basic contact information</p>
 						<div class="form-rsvp">
-							<form action="" method="post">
-								<input class="contact" type="text" value="" placeholder="First Name">
-								<input class="contact" type="text" value="" placeholder="Last Name">
-								<input class="contact" type="text" value="" placeholder="Email Address">
-								<input class="contact" type="text" value="" placeholder="Phone Number">
+							<form name="contactForm" action="" onsubmit="return validateForm()" onreset="resetErrors()" method="post">
+								<input class="contact" type="text" value="" id="fname" name="Fname" placeholder="First Name">
+								<span id="fname-error" class="error-message"></span>
+
+								<input class="contact" type="text" value="" id="lname" name="Lname" placeholder="Last Name">
+								<span id="lname-error" class="error-message"></span>
+
+								<input class="contact" type="text" value="" id="email" name="Email" placeholder="Email Address">
+								<span id="email-error" class="error-message"></span>
+
+								<input class="contact" type="text" value="" id="phonenumber" name="Phonenumber" placeholder="Phone Number">
+								<span id="phonenumber-error" class="error-message"></span>
+
 								<div class="form-spacer">
 									<label class="terms"> Terms and Conditions</label>
 								</div>
 								<div>
-									<input type="submit" value="Subscribe">
+									<input type="submit" value="Submit">
 								</div>
 							</form>
 						</div>
@@ -284,5 +292,10 @@
 			www.polentasmeetings.learn &nbsp;│&nbsp; &copy; 2024
 		</div>
 		<!-- END FOOTER -->
+
+		<!-- INLINE javaScript -->
+		<script>
+			document.body.classList.add('fade-out');
+		</script>
 	</body>
 </html>
